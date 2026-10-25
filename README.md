@@ -1,2 +1,2 @@
-# Flood-Risk-Mapping-Bihar-
-Flood Susceptibility and Vulnerability Mapping in Bihar, India using SAR data and Machine Learning. Includes datasets, preprocessing scripts, modeling workflows, and results from MSc thesis research at ITC, University of Twente.
+# Flood susceptibilty mapping of Bihar
+Data, notebooks, and 18-panel diagnostic spatial distribution plots tracking raw physical properties against StandardScaler transformations (μ=0, σ=1) for ML-based flood susceptibility mapping and PCA-DEA socio-economic vulnerability modeling in Bihar, India.
